@@ -25,8 +25,8 @@ let allMusic = [
   {
     name: "Beauz & Jvna - Crazy",
     artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    img: "music-7",
+    src: "music-7"
   },
   {
     name: "Hardwind - Want Me",
@@ -43,8 +43,8 @@ let allMusic = [
   {
     name: "Lost Sky - Vision NCS",
     artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    img: "music-7",
+    src: "music-7"
   },
   {
     name: "fhfhS",
